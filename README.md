@@ -12,7 +12,7 @@ This project uses OpenCV to perform real-time face detection using your webcam.
 1. Install OpenCV if you haven't:
    ```bash
    pip install opencv-python
-````
+   ````
 
 2. Run the script:
 
