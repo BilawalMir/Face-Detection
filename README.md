@@ -1,4 +1,3 @@
-````markdown
 # Real-Time Face Detection
 
 This project uses OpenCV to perform real-time face detection using your webcam.
